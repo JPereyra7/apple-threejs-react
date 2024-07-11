@@ -12,4 +12,9 @@ This project was created with React JS (I usually do TypeScript but wanted a cha
 
 Screenshot from the 3D model below 👇🏼
 
+<details>
+
+<summary>3D iPhone Model</summary>
+
 ![Screenshot](https://github.com/JPereyra7/apple-threejs-react/blob/main/src/assets/threejsmodels.png?raw=true)
+</details>
